@@ -2,8 +2,8 @@ Lista de chequeo:
 
 Descripción de la tarea:
 
-Es un bug [ ]
-Es una nueva caracteristica [ ]
+Es un bug [ ]  
+Es una nueva caracteristica [ ]  
 
 Tareas:
 [ ] Documentación
